@@ -1,4 +1,5 @@
-object Example  extends  App {
-val message ="Hello"
+ object Example  extends  App {
+val message: String ="Hello"
+
   println(message)
 }
