@@ -1,4 +1,4 @@
 object Example  extends  App {
-  println ("hello")
-
+val message ="Hello"
+  println(message)
 }
